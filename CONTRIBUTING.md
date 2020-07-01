@@ -1,3 +1,6 @@
+# My comments
+Bitte sende eine Email an: liebling_kollege@firma.com"
+
 # Contributing
 
 Your contributions are always welcome!
